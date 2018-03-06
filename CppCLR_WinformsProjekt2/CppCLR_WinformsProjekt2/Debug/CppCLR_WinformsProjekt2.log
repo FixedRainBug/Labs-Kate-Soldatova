@@ -1,0 +1,17 @@
+﻿  Door.cpp
+  Lamp.cpp
+  Создание кода...
+  CppCLR_WinformsProjekt.cpp
+c:\users\user\source\repos\cppclr_winformsprojekt2\cppclr_winformsprojekt2\Form1.h(39): warning C4677: Pass: сигнатура члена, не являющегося частным, содержит частный тип сборки "Password"
+  c:\users\user\source\repos\cppclr_winformsprojekt2\cppclr_winformsprojekt2\Password.h(4): note:  см. объявление "Password"
+c:\users\user\source\repos\cppclr_winformsprojekt2\cppclr_winformsprojekt2\Form1.h(40): warning C4677: YourDoor: сигнатура члена, не являющегося частным, содержит частный тип сборки "Door"
+  c:\users\user\source\repos\cppclr_winformsprojekt2\cppclr_winformsprojekt2\Door.h(5): note:  см. объявление "Door"
+c:\users\user\source\repos\cppclr_winformsprojekt2\cppclr_winformsprojekt2\Form1.h(41): warning C4677: LampKitchen: сигнатура члена, не являющегося частным, содержит частный тип сборки "Lamp"
+  c:\users\user\source\repos\cppclr_winformsprojekt2\cppclr_winformsprojekt2\Lamp.h(4): note:  см. объявление "Lamp"
+c:\users\user\source\repos\cppclr_winformsprojekt2\cppclr_winformsprojekt2\Form1.h(41): warning C4677: LampBedRoom: сигнатура члена, не являющегося частным, содержит частный тип сборки "Lamp"
+  c:\users\user\source\repos\cppclr_winformsprojekt2\cppclr_winformsprojekt2\Lamp.h(4): note:  см. объявление "Lamp"
+c:\users\user\source\repos\cppclr_winformsprojekt2\cppclr_winformsprojekt2\Form1.h(41): warning C4677: LampBathRoom: сигнатура члена, не являющегося частным, содержит частный тип сборки "Lamp"
+  c:\users\user\source\repos\cppclr_winformsprojekt2\cppclr_winformsprojekt2\Lamp.h(4): note:  см. объявление "Lamp"
+c:\users\user\source\repos\cppclr_winformsprojekt2\cppclr_winformsprojekt2\Form1.h(41): warning C4677: LampLivingRoom: сигнатура члена, не являющегося частным, содержит частный тип сборки "Lamp"
+  c:\users\user\source\repos\cppclr_winformsprojekt2\cppclr_winformsprojekt2\Lamp.h(4): note:  см. объявление "Lamp"
+  CppCLR_WinformsProjekt2.vcxproj -> C:\Users\User\source\repos\CppCLR_WinformsProjekt2\Debug\CppCLR_WinformsProjekt2.exe

@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  CppCLR_WinformsProjekt.cpp
+c:\users\user\source\repos\cppclr_winformsprojekt2\cppclr_winformsprojekt2\Form1.h(23): warning C4677: Pass: сигнатура члена, не являющегося частным, содержит частный тип сборки "Password"
+  c:\users\user\source\repos\cppclr_winformsprojekt2\cppclr_winformsprojekt2\Password.h(4): note:  см. объявление "Password"
+  Form1.cpp
+  Password.cpp
+  Создание кода...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  CppCLR_WinformsProjekt2.vcxproj -> C:\Users\User\source\repos\CppCLR_WinformsProjekt2\Release\CppCLR_WinformsProjekt2.exe
